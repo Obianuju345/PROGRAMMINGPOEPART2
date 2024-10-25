@@ -1,5 +1,5 @@
 # PROGRAMMINGPOEPART2
-PROHRAMMINGPOEPART2
+PROGRAMMINGPOEPART2
 
 
 Initialize the project and set up the basic structure
